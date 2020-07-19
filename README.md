@@ -1,6 +1,5 @@
 ### Hi there 👋
 
 - 👯 I’m looking to collaborate on Machine Learning projects.
-- 📫 How to reach me: pratiktayshete1221@gmail.com
 
 <img src="https://github.com/PratikTayshete/PratikTayshete/blob/master/python-logo.png" width=150>&nbsp;<img src="https://github.com/PratikTayshete/PratikTayshete/blob/master/flask-logo.png" width=150>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/PratikTayshete/PratikTayshete/blob/master/tensorflow-logo.svg" width=150>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/PratikTayshete/PratikTayshete/blob/master/opencv-logo.png" width=60 height=70>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/PratikTayshete/PratikTayshete/blob/master/pyside2-logo.png" width=80>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/PratikTayshete/PratikTayshete/blob/master/scikit-learn-logo.png" width=100>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/PratikTayshete/PratikTayshete/blob/master/mongodb-logo.png" width=150 height=40>
