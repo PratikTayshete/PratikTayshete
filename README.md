@@ -10,7 +10,7 @@ profile.
 - 💬 Ask me about ... Anything
 
 ### Languages and Tools:
-<a href="https://www.python.org/"><img src="icons/python.png" width=40px/></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" target="_blank"><img src="icons/python.png" width=40px/></a>&nbsp;&nbsp;
 <a href="https://www.qt.io/"><img src="icons/qt.png" width=40px/></a>&nbsp;
 <a href="https://www.mongodb.com/"><img src="icons/mongodb.png" width=40px/></a>&nbsp;
 <a href="https://git-scm.com/"><img src="icons/git.png" width=40px/></a>&nbsp;&nbsp;
