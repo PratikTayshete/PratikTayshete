@@ -29,9 +29,9 @@ profile.
 </br>
 
 ## Connect with me:
-<a href="https://twitter.com/pratik_314"><img src="icons/twitter.png" width=50px/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UClYT3b65lOrWUTpj0BFOuFQ"><img src="icons/youtube.png" width=50px/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/pratiktayshete_314"><img src="icons/instagram.png" width=40px/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/pratik_314"><img src="icons/twitter.png" width=40px/></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UClYT3b65lOrWUTpj0BFOuFQ"><img src="icons/youtube.png" width=40px/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/pratiktayshete_314"><img src="icons/instagram.png" width=35px/></a>&nbsp;&nbsp;
 
 
 
