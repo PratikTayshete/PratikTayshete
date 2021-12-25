@@ -7,7 +7,6 @@
 - 💼 I’m currently working as a  Python Developer
 - ✍ You can find my projects here on my github
 profile.
-- 💬 Ask me about ... Anything
 
 ### Languages and Tools:
 <a href="https://www.python.org/" target="_blank"><img src="icons/python.png" width=40px/></a>&nbsp;&nbsp;
