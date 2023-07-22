@@ -14,8 +14,8 @@ profile.
 <a href="https://www.mongodb.com/"><img src="icons/mongodb.png" width=40px/></a>&nbsp;
 <a href="https://git-scm.com/"><img src="icons/git.png" width=40px/></a>&nbsp;&nbsp;
 <a href="https://www.shotgridsoftware.com/"><img src="icons/shotgrid.png" width=40px/></a>&nbsp;&nbsp;
-<a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="icons/flask.png" width=40px/></a>&nbsp;&nbsp;
 <a href="https://fastapi.tiangolo.com/"><img src="icons/fastapi.png" width=40px/></a>&nbsp;&nbsp;
+<a href="https://docs.pydantic.dev/latest/"><img src="icons/pydantic.png" width=40px/></a>&nbsp;&nbsp;
 <a href="https://www.docker.com/"><img src="icons/docker.png" width=40px/></a>&nbsp;&nbsp;
 <a href="https://github.com/"><img src="icons/github.png" width=50px/></a>&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/pycharm/"><img src="icons/pycharm.png" width=40px/></a>&nbsp;&nbsp;
