@@ -4,7 +4,7 @@
 
 ### About Me:
 
-- 💼 I’m currently working as a  Python Developer
+- 💼 I’m currently working full-time as a  Python Developer.
 - ✍ You can find my projects here on my github
 profile.
 
@@ -13,15 +13,13 @@ profile.
 <a href="https://www.qt.io/"><img src="icons/qt.png" width=40px/></a>&nbsp;
 <a href="https://www.mongodb.com/"><img src="icons/mongodb.png" width=40px/></a>&nbsp;
 <a href="https://git-scm.com/"><img src="icons/git.png" width=40px/></a>&nbsp;&nbsp;
+<a href="https://www.shotgridsoftware.com/"><img src="icons/shotgrid.png" width=40px/></a>&nbsp;&nbsp;
 <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="icons/flask.png" width=40px/></a>&nbsp;&nbsp;
+<a href="https://fastapi.tiangolo.com/"><img src="icons/fastapi.png" width=40px/></a>&nbsp;&nbsp;
 <a href="https://www.docker.com/"><img src="icons/docker.png" width=40px/></a>&nbsp;&nbsp;
-<a href="https://opencv.org/"><img src="icons/opencv.png" width=40px/></a>&nbsp;&nbsp;
-<a href="https://scikit-learn.org/stable/"><img src="icons/scikit-learn.png" width=50px/></a>&nbsp;&nbsp;
-<a href="https://www.tensorflow.org/"><img src="icons/tensorflow.png" width=50px/></a>&nbsp;&nbsp;
 <a href="https://github.com/"><img src="icons/github.png" width=50px/></a>&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/pycharm/"><img src="icons/pycharm.png" width=40px/></a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/"><img src="icons/vscode.png" width=40px/></a>&nbsp;&nbsp;
-<a href="https://jupyter.org/"><img src="icons/jupyter.png" width=50px/></a>&nbsp;&nbsp;
 <a href="https://www.anaconda.com/"><img src="icons/anaconda.png" width=60px/></a>&nbsp;&nbsp;
 
 ### Connect with me:
